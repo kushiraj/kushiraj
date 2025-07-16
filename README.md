@@ -37,11 +37,16 @@ Founded and currently lead the Cloud Computing and DevOps Club at SRU. Organized
 [View 20+ Projects](https://github.com/kushiraj?tab=repositories)
 
 ---
-
 ## Quick Links  
 📧 [Email](mailto:kushirajkanchu04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kushi-raj-kanchu-5137b5256/)  
-📄 [Resume](https://github.com/kushiraj/MY_RESUME.pdf)
+📄 [Resume]([https://example.com/kushiraj_resume.pdf](https://github.com/kushiraj/MY_RESUME))  
+🌐 [Portfolio](https://kushiraj.tech)  
+🧠 [LeetCode](https://leetcode.com/u/kushiraj/
+<!--## Quick Links  
+📧 [Email](mailto:kushirajkanchu04@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kushi-raj-kanchu-5137b5256/)  
+📄 [Resume](https://github.com/kushiraj/MY_RESUME)
 🌐 [Portfolio](https://kushiraj.tech)  
 🧠 [LeetCode](https://leetcode.com/u/kushiraj/)
 <!--
