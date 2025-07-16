@@ -19,19 +19,19 @@ My hands-on experience spans across graph theory, NLP, and full-stack developmen
 
 ## Projects
 
-### Spam SMS Detection(https://github.com/kushiraj/spam-mail-detection-using-dl)
+[### Spam SMS Detection](https://github.com/kushiraj/spam-mail-detection-using-dl)
 Built an NLP-based classifier to detect spam messages using deep learning techniques like BERT and LSTM. Designed a preprocessing pipeline for tokenization and semantic feature extraction. The model effectively distinguishes spam from ham and is hosted in a Jupyter Notebook environment using Python and NLP libraries.
 
-### Hotel Management System(https://github.com/kushiraj/Hotel_Management_System_Using_DBMS)
+[### Hotel Management System](https://github.com/kushiraj/Hotel_Management_System_Using_DBMS)
 Developed a DBMS-based hotel management system using MySQL and Python to handle bookings, customer records, billing, and check-ins. Implemented relational schemas and SQL queries for real-time data management. This system streamlines hotel operations through an interactive interface and backend integration.
 
-### Book Recommendation System(https://github.com/kushiraj/Book-Recommendations)
+[### Book Recommendation System](https://github.com/kushiraj/Book-Recommendations)
 Designed a content-based recommendation system that suggests books using user preferences and past behavior. Built an intuitive UI with HTML/CSS/JavaScript and implemented recommendation logic on the backend. Enhanced reading experience through personalized suggestions and smooth navigation.
 
-### TRD3 Optimization – NIT Warangal(https://github.com/kushiraj/nit_research)
+[### TRD3 Optimization – NIT Warangal](https://github.com/kushiraj/nit_research)
 Worked on Total Roman Domination 3 problem using Differential Evolution algorithm to minimize weight functions on graph structures. Conducted research on heuristic modeling, mutation strategies, and fitness evaluation in Python. Results visualized using NetworkX and NumPy for mid-sized graphs.
 
-### Cloud Club Leadership  
+[### Cloud Club Leadership]
 Founded and currently lead the Cloud Computing and DevOps Club at SRU. Organized workshops on Azure, GitHub Actions, Docker, and serverless apps. Mentored 200+ students and led collaborative projects on cloud-native applications and infrastructure automation.
 
 [*View 20+ Projects (Click Here)*](https://github.com/kushiraj?tab=repositories)
