@@ -1,9 +1,9 @@
 ## Hi there, My name is Kushi Raj Kanchu! 👋
 
 ## About Me  
-I am a passionate and driven Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, currently in my third year at SR University. With a strong foundation in programming and cloud technologies, I build impactful software solutions using modern tools and frameworks. My experience includes web development, AI/ML projects, and cloud-native applications, with hands-on work in Python, Java, HTML/CSS, JavaScript, Node.js, and Azure.
+I am a motivated and detail-oriented Computer Science and Engineering student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
 
-As a proactive learner and problem solver, I enjoy working in collaborative environments and tackling real-world challenges. I lead the Cloud Computing and DevOps Club at SRU and continuously explore innovations in cloud, AI, and automation.
+My hands-on experience spans across graph theory, NLP, and full-stack development, along with cloud tools like Azure and AWS. I’ve led impactful projects in domains like spam detection, hotel management, and book recommendations. As the Chairperson of the Cloud Computing and DevOps Club at SRU, I actively organize workshops and lead cloud-native initiatives while mentoring peers in emerging technologies.
 
 ---
 
