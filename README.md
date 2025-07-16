@@ -1,4 +1,4 @@
-## Hi there, My name is Kushi Raj Kanchu! 👋
+## Hi there, My name is KANCHU KUSHI RAJ! 👋
 
 ## ABOUT ME
 I am a motivated and detail-oriented Computer Science and Engineering student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
@@ -34,7 +34,7 @@ Worked on Total Roman Domination 3 problem using Differential Evolution algorith
 [ Cloud Club Leadership]
 Founded and currently lead the Cloud Computing and DevOps Club at SRU. Organized workshops on Azure, GitHub Actions, Docker, and serverless apps. Mentored 200+ students and led collaborative projects on cloud-native applications and infrastructure automation.
 
-[*View 20+ Projects (Click Here)*](https://github.com/kushiraj?tab=repositories)
+[View 20+ Projects](https://github.com/kushiraj?tab=repositories)
 
 ---
 
