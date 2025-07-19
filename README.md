@@ -1,7 +1,7 @@
 ## Hi there, My name is KANCHU KUSHI RAJ! 👋
 
 ## ABOUT ME
-I am a motivated and detail-oriented Computer Science and Engineering student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
+I am a motivated and detail-oriented Computer Science and Engineering final year student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
 
 My hands-on experience spans across graph theory, NLP, and full-stack development, along with cloud tools like Azure and AWS. I’ve led impactful projects in domains like spam detection, hotel management, and book recommendations. As the Chairperson of the Cloud Computing and DevOps Club at SRU, I actively organize workshops and lead cloud-native initiatives while mentoring peers in emerging technologies.
 
