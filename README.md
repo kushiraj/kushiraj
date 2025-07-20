@@ -35,7 +35,7 @@ Designed a content-based recommendation system that suggests books using user pr
 
 Worked on Total Roman Domination 3 problem using Differential Evolution algorithm to minimize weight functions on graph structures. Conducted research on heuristic modeling, mutation strategies, and fitness evaluation in Python. Results visualized using NetworkX and NumPy for mid-sized graphs.
 
-[ Cloud Club Leadership]
+[ CLOUD CLUB LEADERSHIP]
 Founded and currently lead the Cloud Computing and DevOps Club at SRU. Organized workshops on Azure, GitHub Actions, Docker, and serverless apps. Mentored 200+ students and led collaborative projects on cloud-native applications and infrastructure automation.
 
 [View 20+ Projects](https://github.com/kushiraj?tab=repositories)
