@@ -1,4 +1,5 @@
 ## Hi there, My name is KANCHU KUSHI RAJ! 👋
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/c6cf4e25-d5bf-4a19-bb9b-a4b31aef97b9" />
 
 ## ABOUT ME
 I am a motivated and detail-oriented Computer Science and Engineering final year student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
