@@ -34,6 +34,7 @@ Git | GitHub | VS Code
 
 📚 Foundational Skills:
 Data Structures & Algorithms | Machine Learning | Operating Systems | Computer Networks | Cloud Computing
+
 ---
 
 ## PROJECTS
