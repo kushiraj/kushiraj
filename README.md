@@ -1,5 +1,6 @@
 
-## Hi there, My name is KANCHU KUSHI RAJ! 👋
+## 🌟 Hi, I’m Kanchi Kushi Raj!
+On my journey to become a Software Engineer, blending AI/ML, cloud computing, and web development to craft impactful solutions. 💻
 
 
 
