@@ -3,7 +3,7 @@
 
 
 
-## ABOUT ME
+## 👩‍💻 ABOUT ME
 💡 Driven by a passion for AI, ML, and optimization techniques, I focus on solving real-world problems through data-driven solutions. With expertise in AI/ML and Cloud technologies (Azure & AWS), I enjoy creating intelligent, scalable applications that blend innovation, functionality, and impact.
 
 🎓 As a final-year Computer Science and Engineering student at SR University, I have built a strong foundation in Artificial Intelligence and Machine Learning. My journey includes internships at NIT Warangal and Skill Vertex, where I gained hands-on experience in applying advanced concepts to practical challenges.
