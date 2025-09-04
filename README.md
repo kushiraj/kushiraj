@@ -4,9 +4,13 @@
 
 
 ## ABOUT ME
-I am a motivated and detail-oriented Computer Science and Engineering final year student at SR University, specializing in Artificial Intelligence and Machine Learning. With a solid academic foundation and practical experience through internships at NIT Warangal and Skill Vertex, I have developed a strong interest in solving real-world problems using AI, ML, and optimization techniques.
+💡 Driven by a passion for AI, ML, and optimization techniques, I focus on solving real-world problems through data-driven solutions. With expertise in AI/ML and Cloud technologies (Azure & AWS), I enjoy creating intelligent, scalable applications that blend innovation, functionality, and impact.
 
-My hands-on experience spans across graph theory, NLP, and full-stack development, along with cloud tools like Azure and AWS. I’ve led impactful projects in domains like spam detection, hotel management, and book recommendations. As the Chairperson of the Cloud Computing and DevOps Club at SRU, I actively organize workshops and lead cloud-native initiatives while mentoring peers in emerging technologies.
+🎓 As a final-year Computer Science and Engineering student at SR University, I have built a strong foundation in Artificial Intelligence and Machine Learning. My journey includes internships at NIT Warangal and Skill Vertex, where I gained hands-on experience in applying advanced concepts to practical challenges.
+
+💻 My technical experience spans across graph theory, NLP, and full-stack development, along with leveraging cloud-native tools to deploy and scale applications. I’ve also worked on impactful projects such as spam detection, hotel management systems, and book recommendation engines, showcasing my ability to apply theory to real-world domains.
+
+🌐 As the Chairperson of the Cloud Computing and DevOps Club at SRU, I lead cloud-native initiatives, organize workshops, and mentor peers in emerging technologies. I strongly believe in knowledge sharing, collaboration, and building technology that not only solves problems but also strengthens communities.
 
 ---
 <img width="1920" height="732" alt="image" src="https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" />
