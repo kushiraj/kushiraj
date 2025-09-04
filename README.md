@@ -47,7 +47,7 @@ Founded and currently lead the Cloud Computing and DevOps Club at SRU. Organized
 
 ---
 ## Quick Links  
- 📧 [Email](mailto:kushirajkanchu04@gmail.com)      🔗 [LinkedIn](https://www.linkedin.com/in/kushi-raj-kanchu-5137b5256/)     📄 [Resume](https://github.com/kushiraj/MY_RESUME)    🌐 [Portfolio](https://kushiraj.tech)     🧠 [LeetCode](https://leetcode.com/u/kushiraj/)
+\t  📧 [Email](mailto:kushirajkanchu04@gmail.com)      🔗 [LinkedIn](https://www.linkedin.com/in/kushi-raj-kanchu-5137b5256/)     📄 [Resume](https://github.com/kushiraj/MY_RESUME)    🌐 [Portfolio](https://kushiraj.tech)     🧠 [LeetCode](https://leetcode.com/u/kushiraj/)
 <!--## Quick Links  
 📧 [Email](mailto:kushirajkanchu04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kushi-raj-kanchu-5137b5256/)  
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
