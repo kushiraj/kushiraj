@@ -37,7 +37,7 @@ Data Structures & Algorithms | Machine Learning | Operating Systems | Computer N
 
 ---
 
-## PROJECTS
+## 💼 PROJECTS
 
 [ Spam SMS Detection](https://github.com/kushiraj/spam-mail-detection-using-dl)
 
